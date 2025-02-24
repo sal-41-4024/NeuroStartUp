@@ -11,3 +11,5 @@
 3. Низкая цена
 
 1. https://github.com/sal-41-4024/neuro-start-up
+2. https://github.com/sal-41-4024/neuro-start-up/tree/new-text
+3. https://github.com/sal-41-4024/merge
