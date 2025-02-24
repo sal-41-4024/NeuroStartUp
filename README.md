@@ -13,3 +13,7 @@
 1. https://github.com/sal-41-4024/neuro-start-up
 2. https://github.com/sal-41-4024/neuro-start-up/tree/new-text
 3. https://github.com/sal-41-4024/merge
+
+4. https://github.com/sal-41-4024/learn
+5. https://github.com/sal-41-4024/learn2
+6. https://github.com/sal-41-4024/git-2-homeworks-fork
